@@ -3,7 +3,7 @@
 #include <Windows.h>
 #include <conio.h>
 #include <string>
-
+// Прошлая версия
 using namespace std;
 
 // Вставляем сигнатуры функций и структуры
