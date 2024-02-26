@@ -1,3 +1,4 @@
+// удален шаблон
 #include <iostream>
 #include <Windows.h>
 #include <conio.h>
